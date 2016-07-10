@@ -1,0 +1,48 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ff2f2f;
+  font-family: 'Oxygen', sans-serif;
+}
+.navbar-brand h1 {
+  padding-top: auto;
+  margin-top: auto;
+  text-shadow: 1px 1px 1px #222;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+#header-nav {
+	background-color:#afff2f ;
+  	border-radius: 0;
+  	border: 0;
+  }
+#our-menu h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
+#dish h2 {
+	text-align: center;
+	font-size: 1.3em;
+}
+#dish div{
+	background-color: #1faa1f ;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 5px
+}
+p{
+	padding:10px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+#nav-list {
+	text-align: center;
+	font-color:#f1f1f1;
+	font-size: 1.4em;
+	font-weight:solid;
+}
